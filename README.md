@@ -5,6 +5,9 @@
   <li>Palindromo</li>
   <li>Duplicados na Lista</li>
  </ul>
+ 
+ <p>Para executar use o comando </p>
+<code>dotnet run </code>
   
   
   
